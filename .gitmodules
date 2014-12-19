@@ -124,3 +124,6 @@
 [submodule "htpasswd"]
 	path = htpasswd
 	url = https://github.com/Youscribe/htpasswd-cookbook.git
+[submodule "yum-epel"]
+	path = yum-epel
+	url = https://github.com/opscode-cookbooks/yum-epel.git
