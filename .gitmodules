@@ -133,3 +133,6 @@ url=https://github.com/CoreyBehrends/chef-kibana.git
 [submodule "smf"]
 	path = smf
 	url = https://github.com/livinginthepast/smf
+[submodule "rbac"]
+	path = rbac
+	url = https://github.com/livinginthepast/rbac.git
