@@ -127,3 +127,6 @@ url=https://github.com/CoreyBehrends/chef-kibana.git
 [submodule "yum-epel"]
 	path = yum-epel
 	url = https://github.com/opscode-cookbooks/yum-epel.git
+[submodule "yum-mysql-community"]
+	path = yum-mysql-community
+	url = https://github.com/opscode-cookbooks/yum-mysql-community.git
