@@ -133,3 +133,6 @@ url=https://github.com/CoreyBehrends/chef-kibana.git
 [submodule "rbac"]
 	path = rbac
 	url = https://github.com/livinginthepast/rbac.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/CoreyBehrends/rabbitmq.git
