@@ -136,3 +136,6 @@ url=https://github.com/CoreyBehrends/chef-kibana.git
 [submodule "elasticsearch"]
 	path = elasticsearch
 	url = https://github.com/CoreyBehrends/cookbook-elasticsearch.git
+[submodule "ulimit"]
+	path = ulimit
+	url = https://github.com/bmhatfield/chef-ulimit.git
